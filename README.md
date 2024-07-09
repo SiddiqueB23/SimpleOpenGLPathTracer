@@ -4,7 +4,7 @@ Supports only triangles OR spheres.
 Supports specular-diffuse(plastic and metallic),refracitve(only with spheres), emissive materials.  
 
 Stanford dragon with tris reduced to 5%(44K)
-![Stanford Dragon05]([main/dragon_05.png](https://github.com/SiddiqueB23/SimpleOpenGLPathTracer/blob/main/dragon_05.png?raw=true "Stanford Dragon05")
+![Stanford Dragon05](https://github.com/SiddiqueB23/SimpleOpenGLPathTracer/blob/main/dragon_05.png?raw=true "Stanford Dragon05")
 
 TODO:
 - Add credits and links for thirdparty sources in README
